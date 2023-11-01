@@ -1,6 +1,5 @@
 @echo off
 setlocal
-pushd %~dp0
 
 set GOBIN=%~dp0bin
 set GOCACHE=%~dp0go\gocache
